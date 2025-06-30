@@ -24,24 +24,16 @@ Framework-agnostic software developer focused on fundamentals and scalable solut
 ## Technical Stack
 
 **Frontend:** Angular 2+, React, TypeScript, JavaScript, Redux, S/CSS, Bootstrap, Angular Material, PrimeNG, Tailwind.
-
 **Backend:** Node.js, Express, NestJS, Go. 
-
 **Databases:** MySQL, MongoDB, Redis, Mongoose, TypeORM, GORM.
-
 **Testing:** Jest, Cypress.  
-
 **DevOps:** Jenkins, Azure, PM2.
-
 **Code Versioning:** Git, Gitflow, Trunk Based.  
-
 **Project Management:** Azure Devops, Jira.  
-
 **Message Brokers:** Kafka, Azure Service Bus.  
-
 **API Documentation:** OpenAPI.  
-
 **Architecture:** REST, Microservices, DDD.
+
 ---
 
 ## Experience
