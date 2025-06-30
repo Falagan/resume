@@ -149,6 +149,7 @@ Framework-agnostic software developer focused on fundamentals and scalable solut
 
 ## Certifications
 
+- **English B2 (FCE)** — University of Cambridge (2012)
 - **Scrum Master & Foundations** — EuropeanScrum.org (2022)
 - **NestJS Fundamentals** — NestJS (2020)
 - **Testing JavaScript with Jest** — Vitae Consultores (2020)
