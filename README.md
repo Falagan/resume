@@ -33,7 +33,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 **Project Management:** Azure Devops, Jira.  
 **Message Brokers:** Kafka, Azure Service Bus.  
 **API Documentation:** OpenAPI.  
-**Architecture:** Clean Architecture, REST, Microservices, DDD.  
+**Architecture:** Clean Architecture, Vertical Slice, REST, Microservices, DDD.  
 
 ---
 
@@ -45,6 +45,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Being part of a squad of 5 developers working with scrum.
 - Developing from scratch a complete migration of a legacy web app that handles and covers all the hospitality industry features as staff management, documentation, analytics, logistics etc.
 - Using Angular as main framework with DDD frontend architecture and working closely with the team of the company custom design system which is also developed with Angular tools.
+- Design of backend services built Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
 
 **Technologies:** Go, Angular 2+.
 
@@ -55,19 +56,19 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 - Full-Stack development focused on designing front-end and back-end software solutions best suited to each project.
 - Design of front-end apps in Angular and React, combining components reuse, rendering optimization and simple, styled and fluid UI's, taken in advance of a set composed for mono-repos, lazy loading, micro-front-ends, web-components, CSR, SSR, SSG, Redux Pattern.
-- Design of backend services built in Node.js (Express/NestJS) with different architectures solutions such as REST and Microservices through the hexagonal architecture.
+- Design of backend services built in Node.js (Express/NestJS) and Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
 - Coaching junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 
 **Technologies:** Go, Node.js, Angular 2+, React, Angular Universal.
 
 ---
 
-### **AtSistemas** — Fullstack Developer
+### **AtSistemas** — Software Developer
 *Dec 2021 – Apr 2023*
 
 - Full-Stack development focused on designing front-end and back-end software solutions best suited to each project.
 - Design of front-end apps in Angular and React, combining components reuse, rendering optimization and simple, styled and fluid UI's, taken in advance of a set composed for mono-repos, lazy loading, micro-front-ends, web-components, CSR, SSR, SSG, Redux Pattern.
-- Design of backend services built in Node.js (Express/NestJS) with different architectures solutions such as REST and Microservices through the hexagonal architecture.
+- Design of backend services built in Node.js (Express/NestJS) with different architectures solutions such as REST and Microservices through the clean architecture principles.
 - Coaching junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 - Part of the core team responsible for company Node Community, given support for projects, creating training content and coaching junior developers through node core and NestJS training.
 
@@ -75,7 +76,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 ---
 
-### **CtGalega de Software** — Fullstack Developer
+### **CtGalega de Software** — Software Developer
 *Nov 2019 – Dec 2021*
 
 - Full-stack developer on charge of a five senior developers team, responsible for the architecture, design, development, and testing of custom software built from scratch and integrated with our main ERP product.
@@ -89,7 +90,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 ---
 
-### **IgmWeb - Grupo HOTUSA** — Fullstack Developer
+### **IgmWeb - Grupo HOTUSA** — Software Developer
 *Jan 2018 – Dec 2019*
 
 - Full-stack developer focused in a full web applications design and development, built front-ends with Angular and back-ends with Node.js and JavaEE. Responsible for the entire process from analysis, design and development to deploy and maintenance support.
@@ -121,7 +122,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 ---
 
-### **Falagan Web** — Fullstack Developer
+### **Falagan Web** — Software Developer
 *Nov 2015 – Feb 2016*
 
 - Fullstack junior developer, building web apps with Spring (Boot, Security, Data JPA), JSP, JavaScript, MySQL and Bootstrap.
