@@ -5,7 +5,7 @@
 Email: ep.falagan@outlook.es  
 Phone: +34 671 323 914  
 Location: Monforte de Lemos, Spain  
-LinkedIn: [linkedin.com/in/eloyperezotero](https://linkedin.com/in/eloyperezotero)
+LinkedIn: [linkedin.com/in/eloyperezotero](https://linkedin.com/in/eloyperezotero
 Github: [github.com/Falagan](https://github.com/Falagan)
 
 ---
