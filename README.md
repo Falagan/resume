@@ -303,22 +303,22 @@ Framework-agnostic software developer with **6+ years of experience** building s
 
 - Leading complete modernization of legacy hospitality management system serving 10,000+ daily users
 - Implementing Angular frontend with DDD architecture and Go backend microservices
-- Achieved 40% performance improvement and 90% code coverage through comprehensive testing strategy
+- Achieved 40% performance improvement and 80% code coverage through comprehensive testing strategy
 
 ### **Go-Kit Cross-Organization Libraries** — Open Source Initiative
 *2024*
 
 - Architected reusable Go microservice toolkit supporting cross-organizational collaboration with 15+ shared libraries
 - Implemented standardized authentication, logging, monitoring, and circuit breaker patterns using go-kit principles
-- Achieved 30% faster development cycles across multiple teams through consistent service patterns and interfaces
+- Achieved faster development cycles across multiple teams through consistent service patterns and interfaces
 - Built comprehensive testing suite with Testify achieving 95% code coverage and integrated OpenTelemetry observability
 
 ### **Go-DS Design System Framework** — Personal Project
 *2024*
 
 - Developed production-ready design system combining Go backend APIs with Tailwind CSS, HTMX, and DaisyUI components
-- Created 50+ reusable UI components with SSR capabilities, reducing frontend development time by 60%
-- Implemented dynamic theming system and accessibility standards (WCAG 2.1 AA compliance)
+- Created 20+ reusable UI components with SSR capabilities, reducing frontend development time and providing UI standarization.
+- Implemented dynamic theming system
 - Built comprehensive documentation site with live component playground and integration examples
 
 <div class="page-break-before"></div>
@@ -326,24 +326,18 @@ Framework-agnostic software developer with **6+ years of experience** building s
 ### **RunCode-OS: Mechanical Workshop ERP System** — Enterprise Solution
 *2024*
 
-- Designed comprehensive ERP system for automotive repair shops managing 5,000+ client records and inventory integration
-- Built modular Go microservices architecture handling client management, estimate generation, work order tracking, and supplier integration
-- Implemented real-time parts sourcing with automated supplier API integrations reducing procurement time by 70%
-- Created responsive dashboard using HTMX and Tailwind with invoice generation, payment tracking, and comprehensive reporting
-
-### **Multi-Client Consulting Solutions** — Sngular Europe
-*2023 – 2024*
-
-- Delivered 12+ full-stack projects using Angular, React, Node.js, and Go across various industries
-- Implemented micro-frontend architecture supporting 50,000+ concurrent users
-- Achieved 60% faster page loads through SSR/SSG optimization techniques
+- Designed comprehensive ERP system for automotive repair shops
+- Built modular Go services with vertical slicing and microservices architecture handling client management, estimate generation, work order tracking, billing and supplier integration
+- Implemented providers parts API integrations
+- Created responsive dashboard using HTMX and Tailwind with SSR strategy.
 
 ### **Enterprise ERP Integration Platform** — CtGalega de Software
 *2019 – 2021*
 
-- Architected and led development of custom ERP integration platform processing 1M+ daily transactions
-- Managed team of 5 senior developers with €2M+ project budget
-- Reduced deployment time from 4 hours to 30 minutes through CI/CD implementation
+- Architected and led development of custom ERP integration platform for a electric sector client
+- Modular project with users, auth, clients, estimates, billing, mobility, signature and issues tracker management
+- Managed team of 5 mixed junior and senior developers
+- Reduced deployment time through CI/CD flow implementation
 
 <div class="page-break-before"></div>
 
@@ -354,20 +348,20 @@ Framework-agnostic software developer with **6+ years of experience** building s
 
 - Leading a **5-developer scrum team** specializing in hospitality industry software solutions
 - Spearheading the complete migration of a **legacy web application serving 10,000+ daily users** with comprehensive hospitality operations including staff management, documentation, analytics, and logistics
-- Implementing scalable frontend solutions using Angular with Domain-Driven Design (DDD) architecture while **reducing load times by 40%** through optimization techniques
+- Implementing scalable frontend solutions using Angular with Domain-Driven Design (DDD) architecture
 - Architecting high-performance backend services in Go using clean architecture principles with REST API design and microservices patterns
-- Successfully mentoring **3 junior developers** with 100% team retention through structured pair programming and mob programming sessions
+- Successfully mentoring **2 junior developers** with 100% team retention through structured pair programming and mob programming sessions
 
 *Technologies: Go, Angular 2+, Azure, Redis, SQL*
 
 ### **Sngular Europe** — Software Developer
 *Apr 2023 – May 2024*
 
-- Delivered full-stack consulting solutions across **12+ client projects** with focus on optimal technology selection and rapid deployment
-- Built responsive frontend applications using Angular and React, implementing advanced patterns including mono-repos, lazy loading, micro-frontends, and web components, **improving development efficiency by 30%**
-- Developed scalable backend services using Node.js (Express/NestJS) and Go with clean architecture and microservices patterns, **handling 50,000+ concurrent users**
-- Utilized modern rendering techniques including CSR, SSR, SSG, and Angular Universal for **optimal SEO performance and 60% faster initial page loads**
-- Collaborated with senior engineers on technical roadmaps while mentoring **4 junior developers** across multiple project teams
+- Full-Stack development focused on designing front-end and back-end software solutions best suited to each project.
+- Design of front-end apps in Angular and React, combining components reuse, rendering optimization and simple, styled and fluid UI's, taken in advance of a set composed for mono-repos, lazy loading, micro-front-ends, web-components, CSR, SSR, SSG, Redux Pattern.
+- Developed scalable backend services using Node.js (Express/NestJS) and Go with clean architecture and microservices patterns
+- Utilized modern rendering techniques including CSR, SSR, SSG, and Angular Universal for **optimal SEO performance on initial page loads**
+- Collaborated with senior engineers on technical roadmaps across multiple project teams
 
 *Technologies: Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL, Azure*
 
@@ -376,23 +370,23 @@ Framework-agnostic software developer with **6+ years of experience** building s
 ### **AtSistemas** — Software Developer
 *Dec 2021 – Apr 2023*
 
-- Specialized in full-stack development with emphasis on selecting optimal architectural patterns for each project's requirements across **8+ enterprise projects**
-- Created dynamic frontend solutions using Angular and React with advanced component reusability and rendering optimization, **achieving 95% component reusability rate**
-- Architected robust backend services using Node.js, Express, NestJS, and Go with microservices and clean architecture approaches, **reducing system downtime by 80%**
-- Served as **core team member for the company's Node.js Community** of 50+ developers, providing project support and creating comprehensive training materials
-- Led technical mentoring initiatives and delivered NestJS training programs, **successfully upskilling 15+ junior developers** with measurable performance improvements
-
+- Specialized in full-stack development with emphasis on selecting optimal architectural patterns for each project's requirements across **4+ enterprise projects**
+- Created dynamic frontend solutions using Angular and React with advanced component reusability and rendering optimization
+- Architected robust backend services using Node.js, Express, NestJS, and Go with microservices and clean architecture approaches
+- Served as **core team member for the company's Node.js Community** of 20+ developers, providing project support and creating comprehensive training materials
+- Led technical mentoring initiatives and delivered NestJS training programs
+  
 *Technologies: Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL, Azure*
 
 ### **CtGalega de Software** — Software Developer
 *Nov 2019 – Dec 2021*
 
-- Led a **team of 5 senior developers**, overseeing architecture, design, development, and testing of custom software integrated with the main ERP product, **managing €2M+ project budget**
-- Established comprehensive development environment including tools, protocols, workflows, and project timelines, **reducing deployment time from 4 hours to 30 minutes**
-- Designed frontend applications using Angular and React with Redux pattern, focusing on component reusability and performance optimization, **achieving 99.9% uptime**
-- Built backend services with Node.js (Express/NestJS) integrated with MySQL, MongoDB, and Redis using REST and microservices architectures, **processing 1M+ daily transactions**
-- Implemented custom CI/CD pipelines using Jenkins with self-hosted infrastructure, supported by Azure DevOps integration, **increasing deployment frequency by 300%**
-- Provided technical leadership through mentoring, pair programming, and strategic roadmap planning, **achieving 100% team retention and 25% productivity increase**
+- Led a **team of 5 senior developers**, overseeing architecture, design, development, and testing of custom software integrated with the main ERP product
+- Established comprehensive development environment including tools, protocols, workflows, and project timelines, **reducing deployment time**
+- Designed frontend applications using Angular and React with Redux pattern, focusing on component reusability and performance optimization
+- Built backend services with Node.js (Express/NestJS) integrated with MySQL, MongoDB, and Redis using REST and microservices architectures
+- Implemented custom CI/CD pipelines using Jenkins with self-hosted infrastructure
+- Provided technical leadership through mentoring, pair programming, and strategic roadmap planning
 
 *Technologies: Angular 2+, SQL, MongoDB, Mongoose, Jenkins, Azure, NestJS*
 
@@ -402,10 +396,10 @@ Framework-agnostic software developer with **6+ years of experience** building s
 *Jan 2018 – Dec 2019*
 
 - Delivered end-to-end web application development using Angular frontend and Node.js/JavaEE backend technologies for **Europe's leading hotel group**
-- Single-handedly led the complete migration of hotel booking frontend applications from Knockout.js to Angular architecture, **serving 500,000+ monthly bookings**
-- Developed high-availability file processing service using Node.js and NestJS with microservices architecture and RabbitMQ message queuing, **achieving 99.95% uptime and processing 100,000+ files daily**
-- Integrated APIs and developed JavaEE solutions to support multiple frontend applications, **reducing API response time by 50%**
-- Managed full software lifecycle from analysis and design through deployment and maintenance, **delivering projects 20% under budget**
+- Single-handedly led the complete migration of hotel booking frontend applications from Knockout.js to Angular architecture, **serving 100,000+ monthly bookings**
+- Developed high-availability file processing service using Node.js and NestJS with microservices architecture and RabbitMQ message queuing
+- Integrated APIs and developed JavaEE solutions to support multiple frontend applications
+- Managed full software lifecycle from analysis and design through deployment and maintenance
 
 *Technologies: Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, SQL*
 
@@ -432,8 +426,6 @@ Framework-agnostic software developer with **6+ years of experience** building s
 - Developed full-stack web applications using Spring framework (Boot, Security, Data JPA) with JSP frontend and MySQL database integration
 
 *Technologies: Java, Spring, MySQL, Bootstrap, JSP*
-
-<div class="page-break-before"></div>
 
 ## Soft Skills
 
