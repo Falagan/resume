@@ -305,6 +305,32 @@ Framework-agnostic software developer with **6+ years of experience** building s
 - Implementing Angular frontend with DDD architecture and Go backend microservices
 - Achieved 40% performance improvement and 90% code coverage through comprehensive testing strategy
 
+### **Go-Kit Cross-Organization Libraries** — Open Source Initiative
+*2024*
+
+- Architected reusable Go microservice toolkit supporting cross-organizational collaboration with 15+ shared libraries
+- Implemented standardized authentication, logging, monitoring, and circuit breaker patterns using go-kit principles
+- Achieved 30% faster development cycles across multiple teams through consistent service patterns and interfaces
+- Built comprehensive testing suite with Testify achieving 95% code coverage and integrated OpenTelemetry observability
+
+### **Go-DS Design System Framework** — Personal Project
+*2024*
+
+- Developed production-ready design system combining Go backend APIs with Tailwind CSS, HTMX, and DaisyUI components
+- Created 50+ reusable UI components with SSR capabilities, reducing frontend development time by 60%
+- Implemented dynamic theming system and accessibility standards (WCAG 2.1 AA compliance)
+- Built comprehensive documentation site with live component playground and integration examples
+
+<div class="page-break-before"></div>
+
+### **RunCode-OS: Mechanical Workshop ERP System** — Enterprise Solution
+*2024*
+
+- Designed comprehensive ERP system for automotive repair shops managing 5,000+ client records and inventory integration
+- Built modular Go microservices architecture handling client management, estimate generation, work order tracking, and supplier integration
+- Implemented real-time parts sourcing with automated supplier API integrations reducing procurement time by 70%
+- Created responsive dashboard using HTMX and Tailwind with invoice generation, payment tracking, and comprehensive reporting
+
 ### **Multi-Client Consulting Solutions** — Sngular Europe
 *2023 – 2024*
 
