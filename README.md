@@ -266,7 +266,7 @@ p:contains("Technologies:") {
 <button class="print-button" onclick="window.print()">🖨️ Print Resume</button>
 
 # Eloy Pérez
-**Software Developer**
+**SOFTWARE DEVELOPER**
 
 **Contact**  
 Email: ep.falagan@outlook.es  
