@@ -313,7 +313,7 @@ Framework-agnostic software developer with **6+ years of experience** building s
 - Achieved faster development cycles across multiple teams through consistent service patterns and interfaces
 - Built comprehensive testing suite with Testify achieving 95% code coverage and integrated OpenTelemetry observability
 
-### **Go-DS Design System Framework** — Personal Project
+### **SSR Design System Framework** — Personal Project
 *2024*
 
 - Developed production-ready design system combining Go backend APIs with Tailwind CSS, HTMX, and DaisyUI components
@@ -323,7 +323,7 @@ Framework-agnostic software developer with **6+ years of experience** building s
 
 <div class="page-break-before"></div>
 
-### **RunCode-OS: Mechanical Workshop ERP System** — Enterprise Solution
+### **Mechanical Workshop ERP System** — Enterprise Solution
 *2024*
 
 - Designed comprehensive ERP system for automotive repair shops
