@@ -360,7 +360,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Full-Stack development focused on designing front-end and back-end software solutions best suited to each project.
 - Design of front-end apps in Angular and React, combining components reuse, rendering optimization and simple, styled and fluid UI's, taken in advance of a set composed for mono-repos, lazy loading, micro-front-ends, web-components, CSR, SSR, SSG, Redux Pattern.
 - Developed scalable backend services using Node.js (Express/NestJS) and Go with clean architecture and microservices patterns
-- Utilized modern rendering techniques including CSR, SSR, SSG, and Angular Universal for **optimal SEO performance on initial page loads**
+- Utilized modern rendering techniques including CSR, SSR, SSG, and Angular Universal for optimal SEO performance
 - Collaborated with senior engineers on technical roadmaps across multiple project teams
 
 *Technologies: Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL, Azure*
