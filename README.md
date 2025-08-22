@@ -284,7 +284,7 @@ Framework-agnostic software developer focused on fundamentals and scalable solut
 
 **Backend:** Node.js, Express, NestJS, Go.  
 **Databases:** MySQL, MongoDB, Redis, Mongoose, TypeORM, GORM.  
-**Testing:** Jest, Cypress.  
+**Testing:** Jest, Cypress, Testify.  
 **DevOps:** Jenkins, Azure, PM2.  
 **Architecture:** Clean Architecture, Vertical Slice, REST, Microservices, DDD.  
 **Observability:** OpenTelemetry, Prometheus, Grafana.  
