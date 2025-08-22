@@ -1,19 +1,202 @@
 <style>
+/* Professional Resume Typography */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
 body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
   font-size: 16px;
-  line-height: 1.6;
-  color: #1a1a1a;
-  max-width: 800px;
+  line-height: 1.5;
+  color: #2c3e50;
+  max-width: 850px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 3rem 2rem;
+  background: #ffffff;
+  font-weight: 400;
 }
 
-h1 { font-size: 2.5rem; font-weight: 700; margin-bottom: 0.5rem; }
-h2 { font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; }
-h3 { font-size: 1.25rem; font-weight: 600; }
-a { color: #2563eb; text-decoration: none; }
-a:hover { text-decoration: underline; }
+/* Name and title */
+h1 {
+  font-family: 'Crimson Text', Georgia, serif;
+  font-size: 3rem;
+  font-weight: 600;
+  color: #1a202c;
+  margin-bottom: 0.25rem;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+h1 + p strong {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 300;
+  color: #4a5568;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* Section headers */
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #1a202c;
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #3182ce;
+  padding-bottom: 0.5rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+/* Job titles and subsections */
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #2d3748;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+
+/* Dates and locations */
+em {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-style: italic;
+  color: #718096;
+  font-size: 0.95rem;
+  font-weight: 400;
+}
+
+/* Body text */
+p {
+  margin-bottom: 1rem;
+  text-align: left;
+  hyphens: auto;
+}
+
+/* Strong text (company names, etc.) */
+strong {
+  font-weight: 600;
+  color: #1a202c;
+}
+
+/* Lists */
+ul, ol {
+  margin-bottom: 1.25rem;
+  padding-left: 0;
+  list-style: none;
+}
+
+li {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+  position: relative;
+  padding-left: 1.25rem;
+}
+
+li::before {
+  content: "•";
+  color: #3182ce;
+  font-weight: 600;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* Links */
+a {
+  color: #3182ce;
+  text-decoration: none;
+  font-weight: 500;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+a:hover {
+  border-bottom-color: #3182ce;
+}
+
+/* Contact section */
+body > p:nth-of-type(2) {
+  font-size: 1rem;
+  line-height: 1.8;
+  margin-bottom: 2.5rem;
+  color: #4a5568;
+}
+
+/* Skills section - inline styling */
+h2:contains("Soft Skills") + p,
+h2:contains("Technical Stack") + p {
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+/* Technologies in experience */
+p:contains("Technologies:") {
+  font-size: 0.9rem;
+  color: #718096;
+  font-style: italic;
+  margin-top: 0.75rem;
+}
+
+/* Print styles */
+@media print {
+  body {
+    font-size: 12pt;
+    line-height: 1.4;
+    padding: 1rem;
+    max-width: none;
+  }
+  
+  h1 {
+    font-size: 24pt;
+    margin-bottom: 6pt;
+  }
+  
+  h2 {
+    font-size: 14pt;
+    margin-top: 18pt;
+    margin-bottom: 8pt;
+    border-bottom: 1.5pt solid #000;
+  }
+  
+  h3 {
+    font-size: 12pt;
+    margin-top: 12pt;
+    margin-bottom: 4pt;
+  }
+  
+  p, li {
+    margin-bottom: 4pt;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  body {
+    padding: 1.5rem 1rem;
+    font-size: 15px;
+  }
+  
+  h1 {
+    font-size: 2.25rem;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+    margin-top: 2.5rem;
+  }
+  
+  h3 {
+    font-size: 1.1rem;
+  }
+}
 </style>
 
 # Eloy Pérez
