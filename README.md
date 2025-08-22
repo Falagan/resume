@@ -240,7 +240,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Using Angular as main framework with DDD frontend architecture and working closely with the team of the company custom design system which is also developed with Angular tools.
 - Design of backend services built Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
 
-**Technologies:** Go, Angular 2+, Azure, Redis, SQL.
+*Technologies:* Go, Angular 2+, Azure, Redis, SQL.
 
 ### **Sngular Europe** — Software Developer
 *Apr 2023 – May 2024*
@@ -250,7 +250,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Design of backend services built in Node.js (Express/NestJS) and Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
 - Coaching junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 
-**Technologies:** Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL, Azure.
+*Technologies:* Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL, Azure.
 
 ### **AtSistemas** — Software Developer
 *Dec 2021 – Apr 2023*
@@ -261,7 +261,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Coaching junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 - Part of the core team responsible for company Node Community, given support for projects, creating training content and coaching junior developers through node core and NestJS training.
 
-**Technologies:** Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL, Azure.
+*Technologies:* Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL, Azure.
 
 ### **CtGalega de Software** — Software Developer
 *Nov 2019 – Dec 2021*
@@ -273,7 +273,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Distribution of software with custom CI/CD with Jenkins on a self-administration host, supported with Azure DevOps.
 - Coaching of junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 
-**Technologies:** Angular 2+, SQL, MongoDB, Mongoose, Jenkins, Azure, NestJS.
+*Technologies:* Angular 2+, SQL, MongoDB, Mongoose, Jenkins, Azure, NestJS.
 
 ### **IgmWeb - Grupo HOTUSA** — Software Developer
 *Jan 2018 – Dec 2019*
@@ -282,7 +282,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Initially focused on front-end, single-handedly led the efforts to re-build our front-ends for Hotels Bookings migrating from Knockout.js to Angular. Later on, perform API integration and developments with JavaEE to provide functionality to other front-ends.
 - Built, in a back-end scope with Node.js and NestJS, a service with a high availability requirements and a heavy file treatment process, taking advantage of microservices with RabbitMQ as a queues broker.
 
-**Technologies:** Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, SQL.
+*Technologies:* Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, SQL.
 
 ### **CtGalega de Software** — Software Trainer
 *Nov 2016 – Jan 2018*
@@ -299,14 +299,14 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Built virtual tours to create different showcases to share an immersive experience in custom-built homes designed by Anthony Perry's team.
 - Developed a simple and functional web app to handle customers agenda and reports and projects evolution monitoring, using Java with Spring and JSP.
 
-**Technologies:** Java, JSP.
+*Technologies:* Java, JSP.
 
 ### **Falagan Web** — Software Developer
 *Nov 2015 – Feb 2016*
 
 - Fullstack junior developer, building web apps with Spring (Boot, Security, Data JPA), JSP, JavaScript, MySQL and Bootstrap.
 
-**Technologies:** Java, Spring, MySQL, Bootstrap, JSP.
+*Technologies:* Java, Spring, MySQL, Bootstrap, JSP.
 
 
 ## Education
