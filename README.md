@@ -305,6 +305,7 @@ Framework-agnostic software developer focused on fundamentals and scalable solut
 - Developing from scratch a complete migration of a legacy web app that handles and covers all the hospitality industry features as staff management, documentation, analytics, logistics etc.
 - Using Angular as main framework with DDD frontend architecture and working closely with the team of the company custom design system which is also developed with Angular tools.
 - Design of backend services built Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
+- Coaching junior developers joining the team, doing frequent pair and mob programming sessions.
 
 *Technologies:* Go, Angular 2+, Azure, Redis, SQL.
 
@@ -343,8 +344,6 @@ Framework-agnostic software developer focused on fundamentals and scalable solut
 
 *Technologies:* Angular 2+, SQL, MongoDB, Mongoose, Jenkins, Azure, NestJS.
 
-<div class="page-break-before"></div>
-
 ### **IgmWeb - Grupo HOTUSA** — Software Developer
 *Jan 2018 – Dec 2019*
 
@@ -377,8 +376,6 @@ Framework-agnostic software developer focused on fundamentals and scalable solut
 - Fullstack junior developer, building web apps with Spring (Boot, Security, Data JPA), JSP, JavaScript, MySQL and Bootstrap.
 
 *Technologies:* Java, Spring, MySQL, Bootstrap, JSP.
-
-<div class="page-break-before"></div>
 
 ## Soft Skills
 
