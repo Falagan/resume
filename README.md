@@ -31,7 +31,6 @@ h1 + p strong {
   font-weight: 300;
   color: #4a5568;
   letter-spacing: 0.05em;
-  text-transform: uppercase;
 }
 
 /* Section headers */
@@ -45,7 +44,6 @@ h2 {
   border-bottom: 2px solid #3182ce;
   padding-bottom: 0.5rem;
   letter-spacing: 0.02em;
-  text-transform: uppercase;
 }
 
 /* Job titles and subsections */
