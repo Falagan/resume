@@ -280,18 +280,14 @@ Github: [github.com/Falagan](https://github.com/Falagan)
 
 Framework-agnostic software developer focused on fundamentals and scalable solutions. A software developer should adhere to best practices by writing clean, efficient, scalable, well-tested, documented, and maintainable code. Easy to say, hard to accomplish. To achieve these goals, I follow the well-known SOLID principles, keeping in mind the balance between KISS and DRY, while also reflecting on YAGNI recursively. I aim to reduce the level of uncertainty to the minimum possible level in the analysis phase, enjoy the design and coding process, feel confident with testing, endure the deployment phase, and then start over again. What a ride!
 
-## Soft Skills
-
-Communication • Team collaboration • Analytical thinking • Continuous learning • Team management • Mentoring & Coaching • Problem solving • Adaptability
-
 ## Technical Stack
 
 **Backend:** Node.js, Express, NestJS, Go.  
 **Databases:** MySQL, MongoDB, Redis, Mongoose, TypeORM, GORM.  
 **Testing:** Jest, Cypress.  
-**DevOps:** Jenkins, Azure, PM2.
-**Architecture:** Clean Architecture, Vertical Slice, REST, Microservices, DDD.
-**Observability:** OpenTelemetry, Prometheus, Grafana.
+**DevOps:** Jenkins, Azure, PM2.  
+**Architecture:** Clean Architecture, Vertical Slice, REST, Microservices, DDD.  
+**Observability:** OpenTelemetry, Prometheus, Grafana.  
 **Code Versioning:** Git, Gitflow, Trunk Based.  
 **Project Management:** Azure Devops, Jira.  
 **Message Brokers:** Kafka, Azure Service Bus.  
@@ -310,7 +306,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Using Angular as main framework with DDD frontend architecture and working closely with the team of the company custom design system which is also developed with Angular tools.
 - Design of backend services built Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
 
-**Technologies:** Go, Angular 2+, Azure, Redis, SQL.
+*Technologies:* Go, Angular 2+, Azure, Redis, SQL.
 
 ### **Sngular Europe** — Software Developer
 *Apr 2023 – May 2024*
@@ -320,7 +316,9 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Design of backend services built in Node.js (Express/NestJS) and Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
 - Coaching junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 
-**Technologies:** Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL, Azure.
+*Technologies:* Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL, Azure.
+
+<div class="page-break-before"></div>
 
 ### **AtSistemas** — Software Developer
 *Dec 2021 – Apr 2023*
@@ -331,7 +329,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Coaching junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 - Part of the core team responsible for company Node Community, given support for projects, creating training content and coaching junior developers through node core and NestJS training.
 
-**Technologies:** Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL, Azure.
+*Technologies:* Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL, Azure.
 
 ### **CtGalega de Software** — Software Developer
 *Nov 2019 – Dec 2021*
@@ -343,7 +341,9 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Distribution of software with custom CI/CD with Jenkins on a self-administration host, supported with Azure DevOps.
 - Coaching of junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 
-**Technologies:** Angular 2+, SQL, MongoDB, Mongoose, Jenkins, Azure, NestJS.
+*Technologies:* Angular 2+, SQL, MongoDB, Mongoose, Jenkins, Azure, NestJS.
+
+<div class="page-break-before"></div>
 
 ### **IgmWeb - Grupo HOTUSA** — Software Developer
 *Jan 2018 – Dec 2019*
@@ -352,7 +352,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Initially focused on front-end, single-handedly led the efforts to re-build our front-ends for Hotels Bookings migrating from Knockout.js to Angular. Later on, perform API integration and developments with JavaEE to provide functionality to other front-ends.
 - Built, in a back-end scope with Node.js and NestJS, a service with a high availability requirements and a heavy file treatment process, taking advantage of microservices with RabbitMQ as a queues broker.
 
-**Technologies:** Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, SQL.
+*Technologies:* Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, SQL.
 
 ### **CtGalega de Software** — Software Trainer
 *Nov 2016 – Jan 2018*
@@ -369,15 +369,20 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Built virtual tours to create different showcases to share an immersive experience in custom-built homes designed by Anthony Perry's team.
 - Developed a simple and functional web app to handle customers agenda and reports and projects evolution monitoring, using Java with Spring and JSP.
 
-**Technologies:** Java, JSP.
+*Technologies:* Java, JSP.
 
 ### **Falagan Web** — Software Developer
 *Nov 2015 – Feb 2016*
 
 - Fullstack junior developer, building web apps with Spring (Boot, Security, Data JPA), JSP, JavaScript, MySQL and Bootstrap.
 
-**Technologies:** Java, Spring, MySQL, Bootstrap, JSP.
+*Technologies:* Java, Spring, MySQL, Bootstrap, JSP.
 
+<div class="page-break-before"></div>
+
+## Soft Skills
+
+Communication • Team collaboration • Analytical thinking • Continuous learning • Team management • Mentoring & Coaching • Problem solving • Adaptability
 
 ## Education
 
