@@ -24,16 +24,17 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 ## Technical Stack
 
-**Frontend:** Angular 2+, React, TypeScript, JavaScript, Redux, S/CSS, Bootstrap, Angular Material, PrimeNG, Tailwind.  
 **Backend:** Node.js, Express, NestJS, Go.  
 **Databases:** MySQL, MongoDB, Redis, Mongoose, TypeORM, GORM.  
 **Testing:** Jest, Cypress.  
-**DevOps:** Jenkins, Azure, PM2.  
+**DevOps:** Jenkins, Azure, PM2.
+**Architecture:** Clean Architecture, Vertical Slice, REST, Microservices, DDD.
+**Observability:** OpenTelemetry, Prometheus, Grafana.
 **Code Versioning:** Git, Gitflow, Trunk Based.  
 **Project Management:** Azure Devops, Jira.  
 **Message Brokers:** Kafka, Azure Service Bus.  
 **API Documentation:** OpenAPI.  
-**Architecture:** Clean Architecture, Vertical Slice, REST, Microservices, DDD.  
+**Frontend:** Angular 2+, React, TypeScript, JavaScript, Redux, S/CSS, Bootstrap, Angular Material, PrimeNG, Tailwind.  
 
 ---
 
@@ -47,7 +48,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Using Angular as main framework with DDD frontend architecture and working closely with the team of the company custom design system which is also developed with Angular tools.
 - Design of backend services built Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
 
-**Technologies:** Go, Angular 2+.
+**Technologies:** Go, Angular 2+, Azure, Redis, SQL.
 
 ---
 
@@ -59,7 +60,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Design of backend services built in Node.js (Express/NestJS) and Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
 - Coaching junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 
-**Technologies:** Go, Node.js, Angular 2+, React, Angular Universal.
+**Technologies:** Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL, Azure.
 
 ---
 
@@ -68,11 +69,11 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 - Full-Stack development focused on designing front-end and back-end software solutions best suited to each project.
 - Design of front-end apps in Angular and React, combining components reuse, rendering optimization and simple, styled and fluid UI's, taken in advance of a set composed for mono-repos, lazy loading, micro-front-ends, web-components, CSR, SSR, SSG, Redux Pattern.
-- Design of backend services built in Node.js (Express/NestJS) with different architectures solutions such as REST and Microservices through the clean architecture principles.
+- Design of backend services built in Node.js (Express/NestJS) and Go with different architectures solutions such as REST and Microservices through the clean architecture principles.
 - Coaching junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 - Part of the core team responsible for company Node Community, given support for projects, creating training content and coaching junior developers through node core and NestJS training.
 
-**Technologies:** Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, MySQL.
+**Technologies:** Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL, Azure.
 
 ---
 
@@ -86,7 +87,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Distribution of software with custom CI/CD with Jenkins on a self-administration host, supported with Azure DevOps.
 - Coaching of junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 
-**Technologies:** Angular 2+, MySQL, MongoDB, Mongoose, Jenkins, Azure, NestJS.
+**Technologies:** Angular 2+, SQL, MongoDB, Mongoose, Jenkins, Azure, NestJS.
 
 ---
 
@@ -97,7 +98,7 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Initially focused on front-end, single-handedly led the efforts to re-build our front-ends for Hotels Bookings migrating from Knockout.js to Angular. Later on, perform API integration and developments with JavaEE to provide functionality to other front-ends.
 - Built, in a back-end scope with Node.js and NestJS, a service with a high availability requirements and a heavy file treatment process, taking advantage of microservices with RabbitMQ as a queues broker.
 
-**Technologies:** Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, MySQL.
+**Technologies:** Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, SQL.
 
 ---
 
