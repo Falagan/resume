@@ -43,8 +43,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 **Technologies:** Go, Angular 2+, Azure, Redis, SQL.
 
----
-
 ### **Sngular Europe** — Software Developer
 *Apr 2023 – May 2024*
 
@@ -54,8 +52,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Coaching junior developers joining the team, doing frequent pair and mob programming sessions, while working with senior engineers to define road-maps and feature priorities.
 
 **Technologies:** Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL, Azure.
-
----
 
 ### **AtSistemas** — Software Developer
 *Dec 2021 – Apr 2023*
@@ -67,8 +63,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Part of the core team responsible for company Node Community, given support for projects, creating training content and coaching junior developers through node core and NestJS training.
 
 **Technologies:** Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL, Azure.
-
----
 
 ### **CtGalega de Software** — Software Developer
 *Nov 2019 – Dec 2021*
@@ -82,8 +76,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 **Technologies:** Angular 2+, SQL, MongoDB, Mongoose, Jenkins, Azure, NestJS.
 
----
-
 ### **IgmWeb - Grupo HOTUSA** — Software Developer
 *Jan 2018 – Dec 2019*
 
@@ -92,8 +84,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Built, in a back-end scope with Node.js and NestJS, a service with a high availability requirements and a heavy file treatment process, taking advantage of microservices with RabbitMQ as a queues broker.
 
 **Technologies:** Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, SQL.
-
----
 
 ### **CtGalega de Software** — Software Trainer
 *Nov 2016 – Jan 2018*
@@ -104,8 +94,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Managed communication with customers and developer teams to provide all the needed information about the software usage and testing results.
 - Evaluate new client requirements and defined use cases.
 
----
-
 ### **Anthony Perry Designs & Builds** — Software Developer
 *Feb 2016 – Jul 2016*
 
@@ -113,8 +101,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - Developed a simple and functional web app to handle customers agenda and reports and projects evolution monitoring, using Java with Spring and JSP.
 
 **Technologies:** Java, JSP.
-
----
 
 ### **Falagan Web** — Software Developer
 *Nov 2015 – Feb 2016*
