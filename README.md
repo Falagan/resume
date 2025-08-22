@@ -198,7 +198,7 @@ p:contains("Technologies:") {
 </style>
 
 # Eloy Pérez
-**Software Developer**
+**SOFTWARE DEVELOPER**
 
 **Contact**  
 Email: ep.falagan@outlook.es  
