@@ -1,3 +1,21 @@
+<style>
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #1a1a1a;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h1 { font-size: 2.5rem; font-weight: 700; margin-bottom: 0.5rem; }
+h2 { font-size: 1.5rem; font-weight: 600; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.5rem; }
+h3 { font-size: 1.25rem; font-weight: 600; }
+a { color: #2563eb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+</style>
+
 # Eloy Pérez
 **Software Developer**
 
