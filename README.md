@@ -8,19 +8,14 @@ Location: Monforte de Lemos, Spain
 LinkedIn: [linkedin.com/in/eloyperezotero](https://linkedin.com/in/eloyperezotero)  
 Github: [github.com/Falagan](https://github.com/Falagan)
 
----
 
 ## About
 
 Framework-agnostic software developer focused on fundamentals and scalable solutions. A software developer should adhere to best practices by writing clean, efficient, scalable, well-tested, documented, and maintainable code. Easy to say, hard to accomplish. To achieve these goals, I follow the well-known SOLID principles, keeping in mind the balance between KISS and DRY, while also reflecting on YAGNI recursively. I aim to reduce the level of uncertainty to the minimum possible level in the analysis phase, enjoy the design and coding process, feel confident with testing, endure the deployment phase, and then start over again. What a ride!
 
----
-
 ## Soft Skills
 
 Communication • Team collaboration • Analytical thinking • Continuous learning • Team management • Mentoring & Coaching • Problem solving • Adaptability
-
----
 
 ## Technical Stack
 
@@ -35,8 +30,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 **Message Brokers:** Kafka, Azure Service Bus.  
 **API Documentation:** OpenAPI.  
 **Frontend:** Angular 2+, React, TypeScript, JavaScript, Redux, S/CSS, Bootstrap, Angular Material, PrimeNG, Tailwind.  
-
----
 
 ## Experience
 
@@ -130,7 +123,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 **Technologies:** Java, Spring, MySQL, Bootstrap, JSP.
 
----
 
 ## Education
 
@@ -140,7 +132,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 **Erasmus Exchange**  
 *Uniwersytet Warmińsko-Mazurski, Poland (2009-2010)*
 
----
 
 ## Certifications
 
@@ -151,7 +142,6 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 - **Angular: Advanced and Scalable** — TrainingIT (2019).
 - **Big Data Technologies** — Derivalya Business & Training (2019).
 
----
 
 ## Languages
 
