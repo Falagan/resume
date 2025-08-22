@@ -277,7 +277,7 @@ Github: [github.com/Falagan](https://github.com/Falagan)
 
 ## About
 
-Framework-agnostic software developer with **6+ years of experience** building scalable solutions across hospitality, ERP, and consulting domains. Passionate about clean architecture, **leading technical teams**, and delivering maintainable code following SOLID principles. Proven track record in **mentoring developers**, driving digital transformation projects, and implementing modern development practices. Expertise in both frontend and backend technologies with a focus on performance optimization and architectural decision-making.
+Framework-agnostic software developer with **8+ years of experience** building scalable solutions across hospitality, ERP, and consulting domains. Passionate about clean architecture, **leading technical teams**, and delivering maintainable code following SOLID principles. Proven track record in **mentoring developers**, driving digital transformation projects, and implementing modern development practices. Expertise in both frontend and backend technologies with a focus on performance optimization and architectural decision-making.
 
 ## Technical Stack
 
