@@ -311,10 +311,10 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 ## Education
 
-**Certificate of Higher Education: Software Development**  
+- **Certificate of Higher Education: Software Development**  
 *IES San Clemente, Santiago de Compostela (2013-2015)*
 
-**Erasmus Exchange**  
+- **Erasmus Exchange**  
 *Uniwersytet Warmińsko-Mazurski, Poland (2009-2010)*
 
 
@@ -330,5 +330,5 @@ Communication • Team collaboration • Analytical thinking • Continuous lear
 
 ## Languages
 
-**Spanish:** Native  
-**English:** Fluent
+- **Spanish:** Native  
+- **English:** Fluent
