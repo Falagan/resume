@@ -140,6 +140,10 @@ p:contains("Technologies:") {
 
 /* Print styles */
 @media print {
+  .print-button {
+    display: none !important;
+  }
+  
   body {
     font-size: 12pt;
     line-height: 1.4;
@@ -195,7 +199,37 @@ p:contains("Technologies:") {
     font-size: 1.1rem;
   }
 }
+
+.print-button {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: #3182ce;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(49, 130, 206, 0.3);
+  transition: all 0.2s ease;
+  z-index: 1000;
+}
+
+.print-button:hover {
+  background: #2c5282;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(49, 130, 206, 0.4);
+}
+
+.print-button:active {
+  transform: translateY(0);
+}
 </style>
+
+<button class="print-button" onclick="window.print()">🖨️ Print Resume</button>
 
 # Eloy Pérez
 **SOFTWARE DEVELOPER**
