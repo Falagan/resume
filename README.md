@@ -296,51 +296,6 @@ Framework-agnostic software developer with **8+ years of experience** building s
 
 <div class="page-break-before"></div>
 
-## Key Projects
-
-### **Hospitality Management Platform Migration** — Mapal Software
-*May 2024 – Present*
-
-- Leading complete modernization of legacy hospitality management system serving 10,000+ daily users
-- Implementing Angular frontend with DDD architecture and Go backend microservices
-- Achieved 40% performance improvement and 80% code coverage through comprehensive testing strategy
-
-### **Go-Kit Cross-Organization Libraries** — Open Source Initiative
-*2024*
-
-- Architected reusable Go microservice toolkit supporting cross-organizational collaboration with 15+ shared libraries
-- Implemented standardized authentication, logging, monitoring, and circuit breaker patterns using go-kit principles
-- Achieved faster development cycles across multiple teams through consistent service patterns and interfaces
-- Built comprehensive testing suite with Testify achieving 95% code coverage and integrated OpenTelemetry observability
-
-### **SSR Design System Framework** — Personal Project
-*2024*
-
-- Developed production-ready design system combining Go backend APIs with Tailwind CSS, HTMX, and DaisyUI components
-- Created 20+ reusable UI components with SSR capabilities, reducing frontend development time and providing UI standarization.
-- Implemented dynamic theming system
-- Built comprehensive documentation site with live component playground and integration examples
-
-<div class="page-break-before"></div>
-
-### **Mechanical Workshop ERP System** — Enterprise Solution
-*2024*
-
-- Designed comprehensive ERP system for automotive repair shops
-- Built modular Go services with vertical slicing and microservices architecture handling client management, estimate generation, work order tracking, billing and supplier integration
-- Implemented providers parts API integrations
-- Created responsive dashboard using HTMX and Tailwind with SSR strategy.
-
-### **Enterprise ERP Integration Platform** — CtGalega de Software
-*2019 – 2021*
-
-- Architected and led development of custom ERP integration platform for a electric sector client
-- Modular project with users, auth, clients, estimates, billing, mobility, signature and issues tracker management
-- Managed team of 5 mixed junior and senior developers
-- Reduced deployment time through CI/CD flow implementation
-
-<div class="page-break-before"></div>
-
 ## Experience
 
 ### **Mapal Software** — Software Developer
@@ -426,6 +381,49 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Developed full-stack web applications using Spring framework (Boot, Security, Data JPA) with JSP frontend and MySQL database integration
 
 *Technologies: Java, Spring, MySQL, Bootstrap, JSP*
+
+## Key Projects
+
+### **Hospitality Management Platform Migration** — Mapal Software
+*May 2024 – Present*
+
+- Leading complete modernization of legacy hospitality management system serving 10,000+ daily users
+- Implementing Angular frontend with DDD architecture and Go backend microservices
+- Achieved 40% performance improvement and 80% code coverage through comprehensive testing strategy
+
+### **Go-Kit Cross-Organization Libraries** — Open Source Initiative
+*2024*
+
+- Architected reusable Go microservice toolkit supporting cross-organizational collaboration with 15+ shared libraries
+- Implemented standardized authentication, logging, monitoring, and circuit breaker patterns using go-kit principles
+- Achieved faster development cycles across multiple teams through consistent service patterns and interfaces
+- Built comprehensive testing suite with Testify achieving 95% code coverage and integrated OpenTelemetry observability
+
+### **SSR Design System Framework** — Personal Project
+*2024*
+
+- Developed production-ready design system combining Go backend APIs with Tailwind CSS, HTMX, and DaisyUI components
+- Created 20+ reusable UI components with SSR capabilities, reducing frontend development time and providing UI standarization.
+- Implemented dynamic theming system
+- Built comprehensive documentation site with live component playground and integration examples
+
+<div class="page-break-before"></div>
+
+### **Mechanical Workshop ERP System** — Enterprise Solution
+*2024*
+
+- Designed comprehensive ERP system for automotive repair shops
+- Built modular Go services with vertical slicing and microservices architecture handling client management, estimate generation, work order tracking, billing and supplier integration
+- Implemented providers parts API integrations
+- Created responsive dashboard using HTMX and Tailwind with SSR strategy.
+
+### **Enterprise ERP Integration Platform** — CtGalega de Software
+*2019 – 2021*
+
+- Architected and led development of custom ERP integration platform for a electric sector client
+- Modular project with users, auth, clients, estimates, billing, mobility, signature and issues tracker management
+- Managed team of 5 mixed junior and senior developers
+- Reduced deployment time through CI/CD flow implementation
 
 ## Soft Skills
 
