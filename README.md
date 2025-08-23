@@ -399,6 +399,8 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Achieved faster development cycles across multiple teams through consistent service patterns and interfaces
 - Built comprehensive testing suite with Testify achieving 95% code coverage and integrated OpenTelemetry observability
 
+<div class="page-break-before"></div>
+
 ### **SSR Design System Framework** — Enterprise Solution
 *2023*
 
@@ -406,8 +408,6 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Created 20+ reusable UI components with SSR capabilities, reducing frontend development time and providing UI standarization.
 - Implemented dynamic theming system
 - Built comprehensive documentation site with live component playground and integration examples
-
-<div class="page-break-before"></div>
 
 ### **Mechanical Workshop ERP System** — Enterprise Solution
 *2023*
@@ -431,6 +431,8 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Modular project with users, auth, clients, estimates, billing, mobility, signature and issues tracker management
 - Managed team of 5 mixed junior and senior developers
 - Reduced deployment time through CI/CD flow implementation
+
+<div class="page-break-before"></div>
 
 ## Soft Skills
 
