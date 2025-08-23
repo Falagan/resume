@@ -391,7 +391,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Implementing Angular frontend with DDD architecture and Go backend microservices
 - Achieved 40% performance improvement and 80% code coverage through comprehensive testing strategy
 
-### **Go-Kit Cross-Organization Libraries** — Open Source Initiative
+### **Go-Kit Cross-Organization Libraries** — Enterprise Solution
 *2024*
 
 - Architected reusable Go microservice toolkit supporting cross-organizational collaboration with 15+ shared libraries
@@ -399,8 +399,8 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Achieved faster development cycles across multiple teams through consistent service patterns and interfaces
 - Built comprehensive testing suite with Testify achieving 95% code coverage and integrated OpenTelemetry observability
 
-### **SSR Design System Framework** — Personal Project
-*2024*
+### **SSR Design System Framework** — Enterprise Solution
+*2023*
 
 - Developed production-ready design system combining Go backend APIs with Tailwind CSS, HTMX, and DaisyUI components
 - Created 20+ reusable UI components with SSR capabilities, reducing frontend development time and providing UI standarization.
@@ -410,12 +410,19 @@ Framework-agnostic software developer with **8+ years of experience** building s
 <div class="page-break-before"></div>
 
 ### **Mechanical Workshop ERP System** — Enterprise Solution
-*2024*
+*2023*
 
 - Designed comprehensive ERP system for automotive repair shops
 - Built modular Go services with vertical slicing and microservices architecture handling client management, estimate generation, work order tracking, billing and supplier integration
 - Implemented providers parts API integrations
 - Created responsive dashboard using HTMX and Tailwind with SSR strategy.
+
+### **Backend Service for Mobile Bank App** — AtSistemas
+*2022*
+
+- Provide a backend service in Nodejs for mobile App Bank Albiliad
+- Modular project with users, auth, payments, wallets and actions authorization flow
+- Integration with different API'S from Bank Albilad, like payments, clients and wallets.
 
 ### **Enterprise ERP Integration Platform** — CtGalega de Software
 *2019 – 2021*
