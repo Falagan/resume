@@ -294,10 +294,6 @@ Framework-agnostic software developer with **8+ years of experience** building s
 **Message Brokers:** Apache Kafka, Azure Service Bus  
 **API Documentation:** OpenAPI, Swagger
 
-Expert: Node.js, Angular 2+, TypeScript, Go  
-Advanced: React, MongoDB, Redis, Docker  
-Proficient: Azure, Kafka, Microservices Architecture  
-
 <div class="page-break-before"></div>
 
 ## Experience
