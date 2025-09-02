@@ -383,8 +383,6 @@ Framework-agnostic software developer with **8+ years of experience** building s
 
 *Technologies: Java, Spring Framework, MySQL, Bootstrap, JSP*
 
-<div class="page-break-before"></div>
-
 ## Soft Skills
 
 **Leadership & Mentoring:** Successfully led teams of up to 5 senior developers, mentored 22+ junior developers with 100% retention rate  
