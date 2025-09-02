@@ -282,7 +282,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 
 **Backend:** Node.js, Express, NestJS, Go  
 **Frontend:** Angular 2+, React, TypeScript, JavaScript, Redux, SCSS, Bootstrap, Angular Material, PrimeNG, Tailwind CSS  
-**Databases:** MySQL, MongoDB, Redis, Mongoose, TypeORM, GORM  
+**Databases:** Postgres, MongoDB, Redis, Mongoose, TypeORM, GORM  
 **Testing:** Jest, Cypress, Testify, Unit Testing, Integration Testing, E2E Testing  
 **Code Quality & Security:** ESLint, Prettier, TSLint, go vet, go fmt, staticcheck, SonarQube, Snyk  
 **CI/CD:** Jenkins, Azure Pipelines, PM2, Docker, Github Actions  
@@ -307,7 +307,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Architecting high-performance backend services in Go and Nodejs using clean architecture principles with REST API design and microservices patterns
 - Successfully mentoring 2 junior developers  through structured pair programming and mob programming sessions
 
-*Technologies: Go, Nodejs, Angular 2+, Azure, Redis, SQL Server*
+*Technologies: Go, Nodejs, Angular 2+, Azure, Redis, Postgres*
 
 ### **Sngular Europe** — Software Developer
 *Apr 2023 – May 2024*
@@ -319,7 +319,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Utilized modern rendering techniques including CSR, SSR, SSG, and Angular Universal for optimal SEO performance
 - Collaborated with senior engineers on technical roadmaps across multiple project teams
 
-*Technologies: Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL Server, Azure*
+*Technologies: Go, Node.js, Angular 2+, React, Angular Universal, Redis, Postgres, Azure*
 
 <div class="page-break-before"></div>
 
@@ -332,7 +332,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Served as **core team member for the company's Node.js Community** of 20+ developers, providing project support and creating comprehensive training materials
 - Led technical mentoring initiatives and delivered NestJS training programs
   
-*Technologies: Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL Server, Azure*
+*Technologies: Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, Postgres, Azure*
 
 ### **CtGalega de Software** — Software Developer
 *Nov 2019 – Dec 2021*
@@ -344,7 +344,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Implemented custom CI/CD pipelines using Jenkins with self-hosted infrastructure
 - Provided technical leadership through mentoring, pair programming, and strategic roadmap planning
 
-*Technologies: Angular 2+, SQL Server, MongoDB, Mongoose, Jenkins, Azure, NestJS*
+*Technologies: Angular 2+, MySQL, MongoDB, Mongoose, Jenkins, Azure, NestJS*
 
 <div class="page-break-before"></div>
 
@@ -357,7 +357,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Integrated APIs and developed Java EE solutions to support multiple frontend applications
 - Managed full software lifecycle from analysis and design through deployment and maintenance
 
-*Technologies: Node.js, Angular 2+, Java EE, Jenkins, RabbitMQ, MongoDB, SQL Server*
+*Technologies: Node.js, Angular 2+, Java EE, Jenkins, RabbitMQ, MongoDB, MySQL*
 
 ### **CtGalega de Software** — Software Trainer
 *Nov 2016 – Jan 2018*
