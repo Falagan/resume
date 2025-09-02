@@ -285,7 +285,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 **Databases:** MySQL, MongoDB, Redis, Mongoose, TypeORM, GORM  
 **Testing:** Jest, Cypress, Testify, Unit Testing, Integration Testing, E2E Testing  
 **Code Quality & Security:** ESLint, Prettier, TSLint, go vet, go fmt, staticcheck, SonarQube, Snyk  
-**DevOps:** Jenkins, Azure, PM2, Docker, CI/CD Pipelines  
+**CI/CD:** Jenkins, Azure Pipelines, PM2, Docker, Github Actions  
 **AI:** Integrations with MCP Servers  
 **Architecture:** Clean Architecture, Vertical Slice Architecture, REST, Microservices, Domain-Driven Design (DDD)  
 **Observability:** OpenTelemetry, Prometheus, Grafana  
@@ -293,6 +293,10 @@ Framework-agnostic software developer with **8+ years of experience** building s
 **Project Management:** Azure DevOps, Jira  
 **Message Brokers:** Apache Kafka, Azure Service Bus  
 **API Documentation:** OpenAPI, Swagger
+
+Expert: Node.js, Angular 2+, TypeScript, Go  
+Advanced: React, MongoDB, Redis, Docker  
+Proficient: Azure, Kafka, Microservices Architecture  
 
 <div class="page-break-before"></div>
 
@@ -304,7 +308,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Leading a **5-developer scrum team** specializing in hospitality industry software solutions
 - Spearheading the complete migration of a legacy web application with comprehensive hospitality operations including staff management, documentation, analytics, and logistics
 - Implementing scalable frontend solutions using Angular with Domain-Driven Design (DDD) architecture
-- Architecting high-performance backend services in Go and Nodejs and od using clean architecture principles with REST API design and microservices patterns
+- Architecting high-performance backend services in Go and Nodejs using clean architecture principles with REST API design and microservices patterns
 - Successfully mentoring 2 junior developers  through structured pair programming and mob programming sessions
 
 *Technologies: Go, Nodejs, Angular 2+, Azure, Redis, SQL Server*
