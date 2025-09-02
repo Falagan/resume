@@ -304,10 +304,10 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Leading a **5-developer scrum team** specializing in hospitality industry software solutions
 - Spearheading the complete migration of a legacy web application with comprehensive hospitality operations including staff management, documentation, analytics, and logistics
 - Implementing scalable frontend solutions using Angular with Domain-Driven Design (DDD) architecture
-- Architecting high-performance backend services in Go using clean architecture principles with REST API design and microservices patterns
-- Successfully mentoring **2 junior developers** with 100% team retention through structured pair programming and mob programming sessions
+- Architecting high-performance backend services in Go and Nodejs and od using clean architecture principles with REST API design and microservices patterns
+- Successfully mentoring 2 junior developers  through structured pair programming and mob programming sessions
 
-*Technologies: Go, Angular 2+, Azure, Redis, SQL Server*
+*Technologies: Go, Nodejs, Angular 2+, Azure, Redis, SQL Server*
 
 ### **Sngular Europe** — Software Developer
 *Apr 2023 – May 2024*
