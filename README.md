@@ -338,7 +338,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 *Nov 2019 – Dec 2021*
 
 - Led a **team of 5 senior developers**, overseeing architecture, design, development, and testing of custom software integrated with the main ERP product
-- Established comprehensive development environment including tools, protocols, workflows, and project timelines, **reducing deployment time by 40%**
+- Established comprehensive development environment including tools, protocols, workflows, and project timelines, reducing deployment time
 - Designed frontend applications using Angular and React with Redux pattern, focusing on component reusability and performance optimization
 - Built backend services with Node.js (Express/NestJS) integrated with MySQL, MongoDB, and Redis using REST and microservices architectures
 - Implemented custom CI/CD pipelines using Jenkins with self-hosted infrastructure
@@ -352,7 +352,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 *Jan 2018 – Dec 2019*
 
 - Delivered end-to-end web application development using Angular frontend and Node.js/Java EE backend technologies for **Europe's leading hotel group**
-- Single-handedly led the complete migration of hotel booking frontend applications from Knockout.js to Angular architecture, **serving 100,000+ monthly bookings**
+- Single-handedly led the complete migration of hotel booking frontend applications from Knockout.js to Angular architecture
 - Developed high-availability file processing service using Node.js and NestJS with microservices architecture and RabbitMQ message queuing
 - Integrated APIs and developed Java EE solutions to support multiple frontend applications
 - Managed full software lifecycle from analysis and design through deployment and maintenance
