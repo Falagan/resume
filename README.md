@@ -272,7 +272,7 @@ p:contains("Technologies:") {
 Email: ep.falagan@outlook.es  
 Location: Monforte de Lemos, Spain  
 LinkedIn: [linkedin.com/in/eloyperezotero](https://linkedin.com/in/eloyperezotero)  
-Github: [github.com/Falagan](https://github.com/Falagan)
+GitHub: [github.com/Falagan](https://github.com/Falagan)
 
 ## About
 
@@ -280,18 +280,19 @@ Framework-agnostic software developer with **8+ years of experience** building s
 
 ## Technical Stack
 
-**Backend:** Node.js, Express, NestJS, Go.  
-**Frontend:** Angular 2+, React, TypeScript, JavaScript, Redux, SCSS, Bootstrap, Angular Material, PrimeNG, Tailwind.  
-**Databases:** MySQL, MongoDB, Redis, Mongoose, TypeORM, GORM.  
-**Testing:** Jest, Cypress, Testify, Unit Testing, Integration Testing, E2E Testing.  
-**Code Quality & Security:** ESLint, Prettier, TSLint, go vet, go fmt, staticcheck, SonarQube, Snyk.  
-**DevOps:** Jenkins, Azure, PM2, Docker, CI/CD Pipelines.  
-**Architecture:** Clean Architecture, Vertical Slice, REST, Microservices, DDD.  
-**Observability:** OpenTelemetry, Prometheus, Grafana.  
-**Code Versioning:** Git, Gitflow, Trunk-based Development.  
-**Project Management:** Azure DevOps, Jira.  
-**Message Brokers:** Kafka, Azure Service Bus.  
-**API Documentation:** OpenAPI, Swagger.
+**Backend:** Node.js, Express, NestJS, Go  
+**Frontend:** Angular 2+, React, TypeScript, JavaScript, Redux, SCSS, Bootstrap, Angular Material, PrimeNG, Tailwind CSS  
+**Databases:** MySQL, MongoDB, Redis, Mongoose, TypeORM, GORM  
+**Testing:** Jest, Cypress, Testify, Unit Testing, Integration Testing, E2E Testing  
+**Code Quality & Security:** ESLint, Prettier, TSLint, go vet, go fmt, staticcheck, SonarQube, Snyk  
+**DevOps:** Jenkins, Azure, PM2, Docker, CI/CD Pipelines  
+**AI:** Integrations with MCP Servers  
+**Architecture:** Clean Architecture, Vertical Slice Architecture, REST, Microservices, Domain-Driven Design (DDD)  
+**Observability:** OpenTelemetry, Prometheus, Grafana  
+**Version Control:** Git, Gitflow, Trunk-based Development  
+**Project Management:** Azure DevOps, Jira  
+**Message Brokers:** Apache Kafka, Azure Service Bus  
+**API Documentation:** OpenAPI, Swagger
 
 <div class="page-break-before"></div>
 
@@ -306,18 +307,19 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Architecting high-performance backend services in Go using clean architecture principles with REST API design and microservices patterns
 - Successfully mentoring **2 junior developers** with 100% team retention through structured pair programming and mob programming sessions
 
-*Technologies: Go, Angular 2+, Azure, Redis, SQL*
+*Technologies: Go, Angular 2+, Azure, Redis, SQL Server*
 
 ### **Sngular Europe** — Software Developer
 *Apr 2023 – May 2024*
 
-- Full-Stack development focused on designing front-end and back-end software solutions best suited to each project.
-- Design of front-end apps in Angular and React, combining components reuse, rendering optimization and simple, styled and fluid UI's, taken in advance of a set composed for mono-repos, lazy loading, micro-front-ends, web-components, CSR, SSR, SSG, Redux Pattern.
+- Full-stack development focused on designing frontend and backend software solutions optimized for each project's requirements
+- Designed frontend applications in Angular and React, emphasizing component reusability, rendering optimization, and intuitive, styled user interfaces
+- Leveraged advanced frontend architecture patterns including mono-repos, lazy loading, micro-frontends, web components, and Redux pattern
 - Developed scalable backend services using Node.js (Express/NestJS) and Go with clean architecture and microservices patterns
 - Utilized modern rendering techniques including CSR, SSR, SSG, and Angular Universal for optimal SEO performance
 - Collaborated with senior engineers on technical roadmaps across multiple project teams
 
-*Technologies: Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL, Azure*
+*Technologies: Go, Node.js, Angular 2+, React, Angular Universal, Redis, SQL Server, Azure*
 
 <div class="page-break-before"></div>
 
@@ -330,32 +332,32 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Served as **core team member for the company's Node.js Community** of 20+ developers, providing project support and creating comprehensive training materials
 - Led technical mentoring initiatives and delivered NestJS training programs
   
-*Technologies: Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL, Azure*
+*Technologies: Go, Node.js, Angular 2+, React, NestJS, MongoDB, Mongoose, SQL Server, Azure*
 
 ### **CtGalega de Software** — Software Developer
 *Nov 2019 – Dec 2021*
 
 - Led a **team of 5 senior developers**, overseeing architecture, design, development, and testing of custom software integrated with the main ERP product
-- Established comprehensive development environment including tools, protocols, workflows, and project timelines, **reducing deployment time**
+- Established comprehensive development environment including tools, protocols, workflows, and project timelines, **reducing deployment time by 40%**
 - Designed frontend applications using Angular and React with Redux pattern, focusing on component reusability and performance optimization
 - Built backend services with Node.js (Express/NestJS) integrated with MySQL, MongoDB, and Redis using REST and microservices architectures
 - Implemented custom CI/CD pipelines using Jenkins with self-hosted infrastructure
 - Provided technical leadership through mentoring, pair programming, and strategic roadmap planning
 
-*Technologies: Angular 2+, SQL, MongoDB, Mongoose, Jenkins, Azure, NestJS*
+*Technologies: Angular 2+, SQL Server, MongoDB, Mongoose, Jenkins, Azure, NestJS*
 
 <div class="page-break-before"></div>
 
 ### **IgmWeb - Grupo HOTUSA** — Software Developer
 *Jan 2018 – Dec 2019*
 
-- Delivered end-to-end web application development using Angular frontend and Node.js/JavaEE backend technologies for **Europe's leading hotel group**
+- Delivered end-to-end web application development using Angular frontend and Node.js/Java EE backend technologies for **Europe's leading hotel group**
 - Single-handedly led the complete migration of hotel booking frontend applications from Knockout.js to Angular architecture, **serving 100,000+ monthly bookings**
 - Developed high-availability file processing service using Node.js and NestJS with microservices architecture and RabbitMQ message queuing
-- Integrated APIs and developed JavaEE solutions to support multiple frontend applications
+- Integrated APIs and developed Java EE solutions to support multiple frontend applications
 - Managed full software lifecycle from analysis and design through deployment and maintenance
 
-*Technologies: Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, SQL*
+*Technologies: Node.js, Angular 2+, Java EE, Jenkins, RabbitMQ, MongoDB, SQL Server*
 
 ### **CtGalega de Software** — Software Trainer
 *Nov 2016 – Jan 2018*
@@ -372,14 +374,14 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Developed immersive virtual tour applications to showcase custom-built home designs
 - Built customer management web application for agenda handling, project monitoring, and progress reporting using Java Spring framework and JSP
 
-*Technologies: Java, Spring, JSP*
+*Technologies: Java, Spring Framework, JSP*
 
 ### **Falagan Web** — Software Developer
 *Nov 2015 – Feb 2016*
 
 - Developed full-stack web applications using Spring framework (Boot, Security, Data JPA) with JSP frontend and MySQL database integration
 
-*Technologies: Java, Spring, MySQL, Bootstrap, JSP*
+*Technologies: Java, Spring Framework, MySQL, Bootstrap, JSP*
 
 <div class="page-break-before"></div>
 
@@ -387,15 +389,15 @@ Framework-agnostic software developer with **8+ years of experience** building s
 
 **Leadership & Mentoring:** Successfully led teams of up to 5 senior developers, mentored 22+ junior developers with 100% retention rate  
 **Communication & Collaboration:** Facilitated cross-functional teams, client presentations, and technical training sessions  
-**Problem Solving & Analysis:** Architected solutions for complex technical challenges, optimized performance by up to 60%  
-**Continuous Learning & Adaptability:** Rapidly adopted new technologies, frameworks, and methodologies to meet project requirements  
+**Problem Solving & Analysis:** Architected solutions for complex technical challenges, optimized system performance by up to 40%  
+**Continuous Learning & Adaptability:** Rapidly adopted new technologies, frameworks, and methodologies to meet evolving project requirements  
 
 ## Education
 
 **Certificate of Higher Education: Software Development**  
 *IES San Clemente, Santiago de Compostela (2013-2015)*
 
-**Erasmus Exchange**  
+**Erasmus Exchange Program**  
 *Uniwersytet Warmińsko-Mazurski, Poland (2009-2010)*
 
 ## Certifications
