@@ -322,7 +322,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Utilized modern rendering techniques including CSR, SSR, SSG, and Angular Universal for optimal SEO performance
 - Collaborated with senior engineers on technical roadmaps across multiple project teams
 
-*Technologies: Go, Node.js Express, Angular 2+, React, Redis, Postgres, Azure*
+*Technologies: Go, Node.js, Angular 2+, React, Redis, Postgres, Azure*
 
 <div class="page-break-before"></div>
 
@@ -384,7 +384,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 
 - Developed full-stack web applications using Spring framework (Boot, Security, Data JPA) with JSP frontend and MySQL database integration
 
-*Technologies: Java, Spring Framework, MySQL, Bootstrap, JSP*
+*Technologies: Java, Spring Framework, MySQL, JSP*
 
 ## Soft Skills
 
