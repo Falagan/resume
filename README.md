@@ -278,27 +278,6 @@ GitHub: [github.com/Falagan](https://github.com/Falagan)
 
 Framework-agnostic software developer with **8+ years of experience** building scalable solutions across hospitality, ERP, and consulting domains. Passionate about clean architecture, **leading technical teams**, and delivering maintainable code following SOLID principles. Proven track record in **mentoring developers**, driving digital transformation projects, and implementing modern development practices. Expertise in both frontend and backend technologies with a focus on performance optimization and architectural decision-making.
 
-## Technical Stack
-
-**Backend:** Node.js (Express/NestJS), Go  
-**Frontend:** Angular 2+, React, TypeScript, Redux,Tailwind CSS  
-**Databases:** Postgres, MongoDB, Redis  
-**Testing:** Unit and integration testing with Jest, Cypress and Testify  
-**Code Quality & Security:** ESLint, SonarQube, StatickCheck  
-**CI/CD:** Jenkins, Github Actions  
-**AI:** Integrations with MCP Servers  
-**Containers:** Docker and Docker Compose  
-**Architecture:** Clean Architecture, Vertical Slice Architecture, REST, Microservices, Domain-Driven Design (DDD)  
-**Observability:** OpenTelemetry, Prometheus, Grafana  
-**Version Control:** Git, Gitflow and Trunk-based Development  
-**Project Management:** Azure DevOps, Jira  
-**Message Brokers:** Apache Kafka, Azure Service Bus  
-**API Documentation:** OpenAPI, Swagger  
-**Cloud:** Azure  
-**Others:** PM2  
-
-<div class="page-break-before"></div>
-
 ## Experience
 
 ### **Mapal Software** — Software Developer
@@ -322,9 +301,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Utilized modern rendering techniques including CSR, SSR, SSG, and Angular Universal for optimal SEO performance
 - Collaborated with senior engineers on technical roadmaps across multiple project teams
 
-*Technologies: Go, Node.js, Angular 2+, React, Redis, Postgres, Azure*
-
-<div class="page-break-before"></div>
+*Technologies: Go, Nodejs, Angular 2+, React, Redis, Postgres, Azure*
 
 ### **AtSistemas** — Software Developer
 *Dec 2021 – Apr 2023*
@@ -335,7 +312,9 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Served as **core team member for the company's Node.js Community** of 20+ developers, providing project support and creating comprehensive training materials
 - Led technical mentoring initiatives and delivered NestJS training programs
   
-*Technologies: Go, NestJS, Angular +2, MongoDB, Postgres, Azure*
+*Technologies: Go, Nodejs, Angular +2, MongoDB, Postgres, Azure*
+
+<div class="page-break-before"></div>
 
 ### **CtGalega de Software** — Software Developer
 *Nov 2019 – Dec 2021*
@@ -347,9 +326,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Implemented custom CI/CD pipelines using Jenkins with self-hosted infrastructure
 - Provided technical leadership through mentoring, pair programming, and strategic roadmap planning
 
-*Technologies: Angular 2+, MySQL, MongoDB, Jenkins, Azure, NestJS*
-
-<div class="page-break-before"></div>
+*Technologies: Nodejs, Angular 2+, MySQL, MongoDB, Jenkins, Azure*
 
 ### **IgmWeb - Grupo HOTUSA** — Software Developer
 *Jan 2018 – Dec 2019*
@@ -360,7 +337,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Integrated APIs and developed Java EE solutions to support multiple frontend applications
 - Managed full software lifecycle from analysis and design through deployment and maintenance
 
-*Technologies: Node.js, Angular 2+, Jenkins, RabbitMQ, MongoDB, MySQL*
+*Technologies: Nodejs, Angular 2+, Jenkins, RabbitMQ, MongoDB, MySQL*
 
 ### **CtGalega de Software** — Software Trainer
 *Nov 2016 – Jan 2018*
@@ -393,13 +370,26 @@ Framework-agnostic software developer with **8+ years of experience** building s
 **Problem Solving & Analysis:** Architected solutions for complex technical challenges, optimized system performance by up to 40%  
 **Continuous Learning & Adaptability:** Rapidly adopted new technologies, frameworks, and methodologies to meet evolving project requirements  
 
-## Education
+<div class="page-break-before"></div>
 
-**Certificate of Higher Education: Software Development**  
-*IES San Clemente, Santiago de Compostela (2013-2015)*
+## Technical Stack
 
-**Erasmus Exchange Program**  
-*Uniwersytet Warmińsko-Mazurski, Poland (2009-2010)*
+**Backend:** Nodejs (Express/NestJS), Go  
+**Frontend:** Angular 2+, React, TypeScript, Redux,Tailwind CSS  
+**Databases:** Postgres, MongoDB, Redis  
+**Testing:** Unit and integration testing with Jest, Cypress and Testify  
+**Code Quality & Security:** ESLint, SonarQube, StatickCheck  
+**CI/CD:** Jenkins, Github Actions  
+**AI:** Integrations with MCP Servers  
+**Containers:** Docker and Docker Compose  
+**Architecture:** Clean Architecture, Vertical Slice Architecture, REST, Microservices, Domain-Driven Design (DDD)  
+**Observability:** OpenTelemetry, Prometheus, Grafana  
+**Version Control:** Git, Gitflow and Trunk-based Development  
+**Project Management:** Azure DevOps, Jira  
+**Message Brokers:** Apache Kafka, Azure Service Bus  
+**API Documentation:** OpenAPI, Swagger  
+**Cloud:** Azure  
+**Others:** PM2, HTMX  
 
 ## Certifications
 
@@ -409,6 +399,14 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - **Testing JavaScript with Jest** — Vitae Consultores (2020)
 - **Angular: Advanced and Scalable** — TrainingIT (2019)
 - **Big Data Technologies** — Derivalya Business & Training (2019)
+
+## Education
+
+**Certificate of Higher Education: Software Development**  
+*IES San Clemente, Santiago de Compostela (2013-2015)*
+
+**Erasmus Exchange Program**  
+*Uniwersytet Warmińsko-Mazurski, Poland (2009-2010)*
 
 ## Languages
 
