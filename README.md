@@ -280,7 +280,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 
 ## Technical Stack
 
-**Backend:** Node.js, Go  
+**Backend:** Node.js (Express/NestJS), Go  
 **Frontend:** Angular 2+, React, TypeScript, Redux,Tailwind CSS  
 **Databases:** Postgres, MongoDB, Redis  
 **Testing:** Unit and integration testing with Jest, Cypress and Testify  
