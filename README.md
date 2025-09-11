@@ -290,10 +290,11 @@ Framework-agnostic software developer with **8+ years of experience** building s
 **Containers:** Docker and Docker Compose  
 **Architecture:** Clean Architecture, Vertical Slice Architecture, REST, Microservices, Domain-Driven Design (DDD)  
 **Observability:** OpenTelemetry, Prometheus, Grafana  
-**Version Control:** Git, Gitflow, Trunk-based Development  
+**Version Control:** Git, Gitflow and Trunk-based Development  
 **Project Management:** Azure DevOps, Jira  
 **Message Brokers:** Apache Kafka, Azure Service Bus  
 **API Documentation:** OpenAPI, Swagger  
+**Cloud:** Azure  
 **Others:** PM2  
 
 <div class="page-break-before"></div>
@@ -321,7 +322,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Utilized modern rendering techniques including CSR, SSR, SSG, and Angular Universal for optimal SEO performance
 - Collaborated with senior engineers on technical roadmaps across multiple project teams
 
-*Technologies: Go, Node.js, Angular 2+, React, Angular Universal, Redis, Postgres, Azure*
+*Technologies: Go, Node.js Express, Angular 2+, React, Redis, Postgres, Azure*
 
 <div class="page-break-before"></div>
 
@@ -334,7 +335,7 @@ Framework-agnostic software developer with **8+ years of experience** building s
 - Served as **core team member for the company's Node.js Community** of 20+ developers, providing project support and creating comprehensive training materials
 - Led technical mentoring initiatives and delivered NestJS training programs
   
-*Technologies: Go, NestJS,Angular +2, MongoDB, Postgres, Azure*
+*Technologies: Go, NestJS, Angular +2, MongoDB, Postgres, Azure*
 
 ### **CtGalega de Software** — Software Developer
 *Nov 2019 – Dec 2021*
